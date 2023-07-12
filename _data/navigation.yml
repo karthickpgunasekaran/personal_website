@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Highlight"
+    url: /highlight/    
+
+  - title: "Experiences"
+    url: /experience/   
+    
+  - title: "Education"
+    url: /education/    
+    
+  - title: "Services"
+    url: /services/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+    
+
+
